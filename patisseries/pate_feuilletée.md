@@ -38,7 +38,7 @@ Après un tour, on tourne la pâte de 90° de façon à obtenir un "livre" dont 
 
 On peut par exemple effectuer deux tours simples pour obtenir $3^6 = 729$ couches, ou bien deux fois deux tours simples puis un tour simple et un tour double pour obtenir $3^5 \times 4 = 972$ couches.
 
-> Astuce : Faire des creux avec l'index et le majeur sur la pâte avant de la réserver pour se rappeler du nombre de tours que l'on a fait.
+> 💡 Astuce : Faire des creux avec l'index et le majeur sur la pâte avant de la réserver pour se rappeler du nombre de tours que l'on a fait.
 
 ## Cuisson (pour un millefeuille)
 
@@ -52,4 +52,4 @@ Après 10min, poser une feuille de cuisson et une autre plaque dessus pour que l
 
 Saupoudrer de sucre glace puis faire caraméliser à 220°C.
 
-> Astuce : penser à tourner la pâte régulièrement pour que tous les côtés caramélisent de façon homogène.
+> 💡 Astuce : penser à tourner la pâte régulièrement pour que tous les côtés caramélisent de façon homogène.
