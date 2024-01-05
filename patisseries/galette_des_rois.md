@@ -1,7 +1,3 @@
----
-lang: fr
----
-
 # Galette des rois
 
 > Pour 5 personnes.
