@@ -12,4 +12,5 @@ Mes recettes de cuisine au format Markdown. Basé sur [ce format](https://github
 
 - [Fondant aux amandes](patisseries/fondant_aux_amandes.md)
 - [Galette des rois](/patisseries/galette_des_rois.md)
+- [Gaufres](/patisseries/gaufres.md)
 - [Pâte feuilletée](patisseries/pate_feuilletée.md)
