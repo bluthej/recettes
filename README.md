@@ -7,6 +7,7 @@ Mes recettes de cuisine au format Markdown. Basé sur [ce format](https://github
 ## [Plats](plats)
 
 - [Bol de poulet haché](plats/poulet_haché.md)
+- [Poulet sauce satay](/plats/poulet_sauce_satay.md)
 
 ## [Pâtisseries](patisseries)
 
