@@ -1,6 +1,3 @@
----
-lang: fr
----
 # Overnight oats
 
 > Pour 2 petits-déjeuners.
