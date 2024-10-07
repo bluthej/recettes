@@ -1,7 +1,12 @@
 # recettes
 Mes recettes de cuisine au format Markdown. Basé sur [ce format](https://github.com/cnstoll/Grocery-Recipe-Format).
 
+## [Petits-déjeuners](petits_déjeuners)
+
+- [Overnight oats](/petits_déjeuners/overnight_oats.md)
+
 ## [Apéritifs](apéritifs)
+
 - [Houmous](apéritifs/houmous.md)
 
 ## [Plats](plats)
