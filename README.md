@@ -16,3 +16,4 @@ Mes recettes de cuisine au format Markdown. Basé sur [ce format](https://github
 - [Galette des rois](/patisseries/galette_des_rois.md)
 - [Gaufres](/patisseries/gaufres.md)
 - [Pâte feuilletée](patisseries/pate_feuilletée.md)
+- [Pancakes healthy](/patisseries/pancakes_healthy.md)
