@@ -11,7 +11,7 @@ Fouetter les œufs avec le sucre jusqu’à ce que le mélange blanchisse.
 - Sucre en poudre | 40g |
 
 Clarifier les œufs, et ajouter les jaunes au mélange précédent.
-Fouetter à nouveau les œufs pendant 1min, puis ajouter le sucre et fouetter vivement jusqu'à ce qu'il blanchisse et triple de volume.
+Fouetter à nouveau les œufs pendant 1min, puis ajouter le sucre et fouetter vivement jusqu'à ce que le mélange blanchisse et triple de volume.
 
 - Sucre en poudre | 25g |
 
