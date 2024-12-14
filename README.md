@@ -17,6 +17,7 @@ Mes recettes de cuisine au format Markdown. Basé sur [ce format](https://github
 
 ## [Pâtisseries](patisseries)
 
+- [Bluche au chocolat](/patisseries/bluche_au_chocolat.md)
 - [Fondant aux amandes](patisseries/fondant_aux_amandes.md)
 - [Galette des rois](/patisseries/galette_des_rois.md)
 - [Gaufres](/patisseries/gaufres.md)
